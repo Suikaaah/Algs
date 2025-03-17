@@ -1,0 +1,4 @@
+(executable
+ (public_name Algs)
+ (name main)
+ (libraries Algs yojson))
