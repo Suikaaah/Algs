@@ -1,5 +1,4 @@
-type status = Underway | Done
-type t = status
+type t = Underway | Done
 
 let from_obj obj =
   let exception Invalid_string in

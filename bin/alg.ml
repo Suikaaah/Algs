@@ -1,5 +1,4 @@
-type alg = { name : string; description : string option; status : Status.t }
-type t = alg
+type t = { name : string; description : string option; status : Status.t }
 
 let from_obj obj =
   {

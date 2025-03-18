@@ -9,4 +9,4 @@ let () =
   let percent = 100. *. float count_done /. float count in
   let open Printf in
   List.iter (printf "%a\n" Alg.print) algs;
-  printf "%i/%i (%f%%)" count_done count percent
+  printf "%i/%i (%f%%)\n" count_done count percent
