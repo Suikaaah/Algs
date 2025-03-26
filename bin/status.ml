@@ -8,3 +8,4 @@ let from_obj obj =
   | _ -> raise Invalid_string
 
 let print_str () = function Underway -> "[ ]" | Done -> "[✔]"
+let is_done = function Underway -> false | Done -> true

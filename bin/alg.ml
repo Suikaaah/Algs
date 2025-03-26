@@ -13,3 +13,5 @@ let print out { name; description; status } =
     (match description with
     | Some x -> sprintf "%a %s (%s)" Status.print_str status name x
     | None -> sprintf "%a %s" Status.print_str status name)
+
+let is_done { status; _ } = Status.is_done status

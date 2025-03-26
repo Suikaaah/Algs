@@ -11,13 +11,13 @@
   },
   {
     "name": "03",
-    "description": null,
-    "status": "Underway"
+    "description": "2 Dots L",
+    "status": "Done"
   },
   {
     "name": "04",
-    "description": null,
-    "status": "Underway"
+    "description": "2 Dots R",
+    "status": "Done"
   },
   {
     "name": "05",
@@ -51,13 +51,13 @@
   },
   {
     "name": "11",
-    "description": null,
-    "status": "Underway"
+    "description": "Lightning 2 R",
+    "status": "Done"
   },
   {
     "name": "12",
-    "description": null,
-    "status": "Underway"
+    "description": "Lightning 2 L",
+    "status": "Done"
   },
   {
     "name": "13",
@@ -71,13 +71,13 @@
   },
   {
     "name": "15",
-    "description": null,
-    "status": "Underway"
+    "description": "Gun 2 L",
+    "status": "Done"
   },
   {
     "name": "16",
-    "description": null,
-    "status": "Underway"
+    "description": "Gun 2 R",
+    "status": "Done"
   },
   {
     "name": "17",
@@ -86,12 +86,12 @@
   },
   {
     "name": "18",
-    "description": null,
-    "status": "Underway"
+    "description": "3 Dots Bottom",
+    "status": "Done"
   },
   {
     "name": "19",
-    "description": null,
+    "description": "3 Dots Sides",
     "status": "Underway"
   },
   {
@@ -271,8 +271,8 @@
   },
   {
     "name": "55",
-    "description": null,
-    "status": "Underway"
+    "description": "3 Lines",
+    "status": "Done"
   },
   {
     "name": "56",
