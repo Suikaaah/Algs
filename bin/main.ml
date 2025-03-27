@@ -1,6 +1,6 @@
 let read_algs filename =
   Yojson.Safe.from_file filename
-  |> Yojson.Safe.Util.to_list |> List.map Alg.from_obj
+  |> Yojson.Safe.Util.to_list |> List.map Alg.t_of_yojson
 
 let () =
   let algs = read_algs "oll.json" in

@@ -1,11 +1,7 @@
-type t = { name : string; description : string option; status : Status.t }
+open Ppx_yojson_conv_lib.Yojson_conv.Primitives
 
-let from_obj obj =
-  {
-    name = Suika.extract "name" obj;
-    description = Suika.extract_opt "description" obj;
-    status = Status.from_obj obj;
-  }
+type t = { name : string; description : string option; status : Status.t }
+[@@deriving yojson]
 
 let print out { name; description; status } =
   let open Printf in

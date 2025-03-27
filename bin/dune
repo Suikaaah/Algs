@@ -1,4 +1,6 @@
 (executable
  (public_name Algs)
  (name main)
+ (preprocess
+  (pps ppx_yojson_conv))
  (libraries Algs yojson))

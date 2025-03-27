@@ -2,286 +2,286 @@
   {
     "name": "01",
     "description": "Dot H",
-    "status": "Done"
+    "status": ["Done"]
   },
   {
     "name": "02",
     "description": "Dot Pi",
-    "status": "Done"
+    "status": ["Done"]
   },
   {
     "name": "03",
     "description": "2 Dots L",
-    "status": "Done"
+    "status": ["Done"]
   },
   {
     "name": "04",
     "description": "2 Dots R",
-    "status": "Done"
+    "status": ["Done"]
   },
   {
     "name": "05",
     "description": "Square L",
-    "status": "Done"
+    "status": ["Done"]
   },
   {
     "name": "06",
     "description": "Square R",
-    "status": "Done"
+    "status": ["Done"]
   },
   {
     "name": "07",
     "description": "Lightning R",
-    "status": "Done"
+    "status": ["Done"]
   },
   {
     "name": "08",
     "description": "Lightning L",
-    "status": "Done"
+    "status": ["Done"]
   },
   {
     "name": "09",
     "description": "Fish R",
-    "status": "Done"
+    "status": ["Done"]
   },
   {
     "name": "10",
     "description": "Fish L",
-    "status": "Done"
+    "status": ["Done"]
   },
   {
     "name": "11",
     "description": "Lightning 2 R",
-    "status": "Done"
+    "status": ["Done"]
   },
   {
     "name": "12",
     "description": "Lightning 2 L",
-    "status": "Done"
+    "status": ["Done"]
   },
   {
     "name": "13",
     "description": "Gun R",
-    "status": "Done"
+    "status": ["Done"]
   },
   {
     "name": "14",
     "description": "Gun L",
-    "status": "Done"
+    "status": ["Done"]
   },
   {
     "name": "15",
     "description": "Gun 2 L",
-    "status": "Done"
+    "status": ["Done"]
   },
   {
     "name": "16",
     "description": "Gun 2 R",
-    "status": "Done"
+    "status": ["Done"]
   },
   {
     "name": "17",
     "description": "Slash",
-    "status": "Done"
+    "status": ["Done"]
   },
   {
     "name": "18",
     "description": "3 Dots Bottom",
-    "status": "Done"
+    "status": ["Done"]
   },
   {
     "name": "19",
     "description": "3 Dots Sides",
-    "status": "Underway"
+    "status": ["Underway"]
   },
   {
     "name": "20",
     "description": "Checkerboard",
-    "status": "Done"
+    "status": ["Done"]
   },
   {
     "name": "21",
     "description": "H",
-    "status": "Done"
+    "status": ["Done"]
   },
   {
     "name": "22",
     "description": "Pi",
-    "status": "Done"
+    "status": ["Done"]
   },
   {
     "name": "23",
     "description": "U",
-    "status": "Done"
+    "status": ["Done"]
   },
   {
     "name": "24",
     "description": "T",
-    "status": "Done"
+    "status": ["Done"]
   },
   {
     "name": "25",
     "description": "L",
-    "status": "Done"
+    "status": ["Done"]
   },
   {
     "name": "26",
     "description": "Sune L",
-    "status": "Done"
+    "status": ["Done"]
   },
   {
     "name": "27",
     "description": "Sune R",
-    "status": "Done"
+    "status": ["Done"]
   },
   {
     "name": "28",
     "description": "2 Misoriented Edges L",
-    "status": "Done"
+    "status": ["Done"]
   },
   {
     "name": "29",
     "description": null,
-    "status": "Underway"
+    "status": ["Underway"]
   },
   {
     "name": "30",
     "description": null,
-    "status": "Underway"
+    "status": ["Underway"]
   },
   {
     "name": "31",
     "description": "q",
-    "status": "Done"
+    "status": ["Done"]
   },
   {
     "name": "32",
     "description": "p",
-    "status": "Done"
+    "status": ["Done"]
   },
   {
     "name": "33",
     "description": "Straight Key",
-    "status": "Done"
+    "status": ["Done"]
   },
   {
     "name": "34",
     "description": "C Bad",
-    "status": "Done"
+    "status": ["Done"]
   },
   {
     "name": "35",
     "description": "Y Perm Setup but messed up",
-    "status": "Done"
+    "status": ["Done"]
   },
   {
     "name": "36",
     "description": "W L",
-    "status": "Done"
+    "status": ["Done"]
   },
   {
     "name": "37",
     "description": "Y Perm Setup",
-    "status": "Done"
+    "status": ["Done"]
   },
   {
     "name": "38",
     "description": "W R",
-    "status": "Done"
+    "status": ["Done"]
   },
   {
     "name": "39",
     "description": "Big Lightning L",
-    "status": "Done"
+    "status": ["Done"]
   },
   {
     "name": "40",
     "description": "Big Lightning R",
-    "status": "Done"
+    "status": ["Done"]
   },
   {
     "name": "41",
     "description": null,
-    "status": "Underway"
+    "status": ["Underway"]
   },
   {
     "name": "42",
     "description": null,
-    "status": "Underway"
+    "status": ["Underway"]
   },
   {
     "name": "43",
     "description": "Thumbs Up L",
-    "status": "Done"
+    "status": ["Done"]
   },
   {
     "name": "44",
     "description": "Thumbs Up R",
-    "status": "Done"
+    "status": ["Done"]
   },
   {
     "name": "45",
     "description": "Fancy Key",
-    "status": "Done"
+    "status": ["Done"]
   },
   {
     "name": "46",
     "description": "C Good",
-    "status": "Done"
+    "status": ["Done"]
   },
   {
     "name": "47",
     "description": "Small L w/o Line R",
-    "status": "Done"
+    "status": ["Done"]
   },
   {
     "name": "48",
     "description": "Small L w/o Line L",
-    "status": "Done"
+    "status": ["Done"]
   },
   {
     "name": "49",
-    "description": null,
-    "status": "Underway"
+    "description": "Small L w/o Headlights L",
+    "status": ["Done"]
   },
   {
     "name": "50",
-    "description": null,
-    "status": "Underway"
+    "description": "Small L w/o Headlights R",
+    "status": ["Done"]
   },
   {
     "name": "51",
     "description": "Ant",
-    "status": "Done"
+    "status": ["Done"]
   },
   {
     "name": "52",
     "description": null,
-    "status": "Underway"
+    "status": ["Underway"]
   },
   {
     "name": "53",
     "description": null,
-    "status": "Underway"
+    "status": ["Underway"]
   },
   {
     "name": "54",
     "description": null,
-    "status": "Underway"
+    "status": ["Underway"]
   },
   {
     "name": "55",
     "description": "3 Lines",
-    "status": "Done"
+    "status": ["Done"]
   },
   {
     "name": "56",
     "description": null,
-    "status": "Underway"
+    "status": ["Underway"]
   },
   {
     "name": "57",
     "description": "2 Misoriented Edges H",
-    "status": "Done"
+    "status": ["Done"]
   }
 ]
